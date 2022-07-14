@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+}
+
+.header {
+    background-color:rgb(20, 20, 20);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#input {
+    size: 35px;
+    border-width: 4px;
+    border-color: rgb(53, 53, 53);
+}
+
+#start {
+    background-color: rgb(43, 55, 37);
+    color: white;
+}
+
+#status, #object_found {
+    color: white;
+    font-weight: 150;
+}
+
+
